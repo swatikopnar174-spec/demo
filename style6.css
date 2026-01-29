@@ -1,0 +1,16 @@
+
+div {
+    background: rgb(0, 128, 0);
+}
+
+div.frist {
+background: rgba(210, 236, 210, 0.527);
+}
+
+div.second {
+    background: rgba(0, 128, 0, 0.3);
+}
+
+div.thrid {
+    background: rgba(0, 128, 0, 0.6);
+}
